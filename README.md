@@ -1,8 +1,10 @@
+### Overview
+
 This is a simple 2D platformer game created using JavaScript and the p5.js library. 
 Players control a character that navigates through obstacles and collects points while avoiding enemies. 
 The game includes dynamic animations, a scoring system, and a time limit for added challenge.
 
-Features
+#### Features
 
 Interactive gameplay: Control a player character to jump, fall, and interact with obstacles.
 
@@ -19,7 +21,7 @@ User input: The game uses keyboard input for controlling character movement.
 
 
 
-Game Mechanics
+#### Game Mechanics
 
 Player Character: Use arrow keys or WASD to move and jump.
 
